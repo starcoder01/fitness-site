@@ -385,6 +385,10 @@ button:hover{
 
     }
 
+    .left{
+        font-size:20px;
+    }
+    
     #div2{
         display: none;
     }
@@ -549,6 +553,10 @@ button:hover{
         display:none;
     }
 
+    .left{
+        font-size:20px;
+    }
+    
     #div2{
         display: none;
     }
@@ -719,6 +727,10 @@ button:hover{
         display:none;
     }
 
+    .left{
+        font-size:20px;
+    }
+    
     #div2{
         display: none;
     }
